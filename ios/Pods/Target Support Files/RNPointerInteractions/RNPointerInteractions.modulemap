@@ -1,0 +1,6 @@
+module RNPointerInteractions {
+  umbrella header "RNPointerInteractions-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "react-native-ios-modal",
+  "version": "0.1.8",
+  "summary": "A react-native component for displaying a modal on iOS by natively wrapping a react-native view inside a UIViewController and presenting it.",
+  "homepage": "https://github.com/dominicstop/react-native-ios-modal#readme",
+  "license": "MIT",
+  "authors": "Dominic Go <dominicstop@gmail.com> (https://github.com/dominicstop)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/dominicstop/react-native-ios-modal.git",
+    "tag": "0.1.8"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "swift_versions": [
+    "4.0",
+    "4.2",
+    "5.0"
+  ],
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "RNSafariModalController",
+  "version": "1.0.6",
+  "summary": "RNSafariModalController",
+  "description": "Opens a URL in SafariViewController presented in a modal",
+  "homepage": "https://github.com/ybonnetain/react-native-safari-modal",
+  "license": "MIT",
+  "authors": {
+    "author": "yann.bonnetain@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/ybonnetain/react-native-safari-modal.git",
+    "tag": "1.0.6"
+  },
+  "source_files": "**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+module react_native_ios_modal {
+  umbrella header "react-native-ios-modal-umbrella.h"
+
+  export *
+  module * { export * }
+}
