@@ -1,0 +1,23 @@
+{
+  "name": "RNPointerInteractions",
+  "version": "1.0.0-beta.4",
+  "summary": "Expose iPad mouse & track pads interactions to React Native",
+  "license": "Apache-2.0",
+  "authors": "Santi Corrales",
+  "homepage": "git+https://github.com/thefunbots/react-native-pointer-interactions.git",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "git+https://github.com/thefunbots/react-native-pointer-interactions.git",
+    "tag": "v1.0.0-beta.4"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

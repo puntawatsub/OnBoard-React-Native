@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-ios-modal/ios/src_library/IosModal-Bridging-Header.h
